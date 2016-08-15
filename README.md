@@ -16,7 +16,7 @@ This area is meant for actively developing Simmer and should _not_ be used for s
 If you find a bug or have an engineering question, feel free to open a new issue [here](https://github.com/bwdinc/simmer/issues).
 
 # Contribute code
-Simmer is actively developed here on Github as an opensource WordPress plugin and anyone is welcome to contribute code. We welcome any engineering discussions and proposals to change code. Submit a pull request to change the code of Simmer, and we'll review it usually within 1-2 days M-F, ET. 
+Simmer is actively developed here on Github as an opensource WordPress plugin and anyone is welcome to contribute code. We welcome any engineering discussions and proposals to change code in new issues. Submit a pull request to change the code of Simmer, and a maintainer will review it usually within 1-2 days M-F, ET. 
 
 1. Open a new issue
 2. Submit a pull request/"PR" with bug fixes or new features
