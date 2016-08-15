@@ -1,5 +1,5 @@
 # Recipes by Simmer
-Simmer is an actively developed [**open source** GPL v3 plugin](https://github.com/simmerwp/simmer/blob/master/license.txt) for WordPress.org and Github is where engineering of the plugin happens. We hope to maintain an open and friendly environment for anyone who's interested in helping make applications for recipe and food data with WordPress. New to verson control and Github? Read the [WordPress core handbook](https://make.wordpress.org/core/handbook/best-practices/commit-messages/).
+Simmer is an actively developed [**open source** GPL WordPress plugin](https://github.com/simmerwp/simmer/blob/master/license.txt) for and this repo on Github is where active devlopment occurs. We maintain an open and friendly environment for everyone, and encourage and help anyone who's interested in making products with recipes. New to verson control or Github? Read the [WordPress core handbook](https://make.wordpress.org/core/handbook/best-practices/commit-messages/).
 
 Our project is governed by a [Code of Conduct](https://github.com/simmerwp/simmer/blob/master/CODE_OF_CONDUCT.md).
 
