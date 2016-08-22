@@ -6,8 +6,8 @@ We hope to maintain an open and friendly environment for anyone who's interested
 Our project is governed by a [Code of Conduct](https://github.com/simmerwp/simmer/blob/master/CODE_OF_CONDUCT.md).
 
 # Installation
- - Clone this repository into your WordPress installation's `plugins` folder from `https://github.com/bwdinc/simmer.git`
- - Or, download directly as a ZIP file from `https://github.com/bwdinc/simmer/archive/master.zip`
+ - Clone this repository into your WordPress installation's `plugins` folder from `https://github.com/simmerwp/simmer.git`
+ - Or, download directly as a ZIP file from `https://github.com/simmerwp/simmer/archive/master.zip`
 
 # Support
 This area is meant for actively developing Simmer and should _not_ be used for support. If you are having trouble using Simmer, please consult our [official documentation](http://docs.simmerwp.com) or email [hi@simmerwp.com](mailto:hi@simmerwp.com). 
